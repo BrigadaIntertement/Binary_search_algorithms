@@ -15,7 +15,16 @@ namespace Laba5_7
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            Random rnd = new Random();
+            mas = new int[n];
 
+            mas[0] = 1;
+            for (int i = 1; i < n; i++)
+            {
+                mas[i] = mas[i - 1] + rnd.Next(1, 5);
+            }
+
+            Key.Maximum = mas[n - 1];
         }
 
         private void FindButton_Click(object sender, EventArgs e)
