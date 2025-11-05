@@ -1,0 +1,16 @@
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.exe
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.deps.json
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.runtimeconfig.json
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.dll
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.pdb
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5_7.Form1.resources
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.dll
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\refint\Laba5-7.dll
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.pdb
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\ref\Laba5-7.dll
