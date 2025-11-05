@@ -89,6 +89,25 @@ namespace Laba5_7
 
             Time02.Text = ResultTime1.ToString();
             Index02.Text = (index >= 0) ? index.ToString() : "поиск неудачен";
+
+            //Последовательный поиск в упорядоченном массиве
+            //Алгоритм С - оптимальний поиск в упорядоченном массиве
+            index = -1;
+            int last = mas[n - 1];
+            mas[n - 1] = key + 1;
+
+            int StartTime4 = Environment.TickCount;
+            for (int j = 0; j < CountOfFind2; j++)
+            {
+                int i = 0;
+                while (mas[i] < key) i++;
+                index = (mas[i] == key) ? i : -1;
+            }
+            int ResultTime4 = Environment.TickCount - StartTime4;
+
+            mas[n - 1] = last;
+            Time05.Text = (ResultTime4 * (CountOfFind / CountOfFind2)).ToString();
+            Index05.Text = (index >= 0) ? index.ToString() : "поиск неудачен";
         }
 
         private void CloseButton_Click(object sender, EventArgs e)

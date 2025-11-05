@@ -14,3 +14,20 @@ C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\ob
 C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.pdb
 C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.genruntimeconfig.cache
 C:\Users\Artem\Desktop\Универ\СиАОД\Проекты\Laba5-7\Laba5-7\obj\Debug\net8.0-windows\ref\Laba5-7.dll
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.exe
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.deps.json
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.runtimeconfig.json
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.dll
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\bin\Debug\net8.0-windows\Laba5-7.pdb
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5_7.Form1.resources
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.csproj.GenerateResource.cache
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.AssemblyInfoInputs.cache
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.AssemblyInfo.cs
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.csproj.CoreCompileInputs.cache
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.sourcelink.json
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.dll
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\refint\Laba5-7.dll
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.pdb
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\Laba5-7.genruntimeconfig.cache
+D:\Laba6 GIT\Binary_search_algorithms\Laba5-7\obj\Debug\net8.0-windows\ref\Laba5-7.dll
