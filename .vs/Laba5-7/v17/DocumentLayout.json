@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{BF6987EC-F23B-4C75-8AD5-201955BAF9B7}|Laba5-7\\Laba5-7.csproj|solutionrelative:laba5-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF6987EC-F23B-4C75-8AD5-201955BAF9B7}|Laba5-7\\Laba5-7.csproj|c:\\users\\artem\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043A\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\binary_search_algorithms\\laba5-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BF6987EC-F23B-4C75-8AD5-201955BAF9B7}|Laba5-7\\Laba5-7.csproj|C:\\Users\\Artem\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0420\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Binary_search_algorithms\\laba5-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BF6987EC-F23B-4C75-8AD5-201955BAF9B7}|Laba5-7\\Laba5-7.csproj|solutionrelative:laba5-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Laba5-7\\Form1.cs",
               "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0420\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Binary_search_algorithms\\Laba5-7\\Form1.cs",
               "RelativeToolTip": "Laba5-7\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wFoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T08:18:32.588Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0420\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Binary_search_algorithms\\Laba5-7\\Form1.cs [Design]",
               "RelativeToolTip": "Laba5-7\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T08:12:02.399Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-04T08:12:02.399Z"
             }
           ]
         }
